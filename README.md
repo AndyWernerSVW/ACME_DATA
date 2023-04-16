@@ -20,7 +20,9 @@ You task will be to create table called Product Metrics. Product Metrics will be
 
 Create free project at https://www.keboola.com/ and load the data. Use this project to transform data and complete task below.
 
-## Your task
+## Your tasks
+
+# Task 1
 
 Create table PRODUCT_METRICS according to this specification
 Granularity: Year-Week-Source_Channel-SKU
@@ -32,6 +34,10 @@ Must have metrics:
   Other Metrics and Attributes: which ever you will find useful to
 - answer business questions above
 - make it easy for user to understand your calculations
+
+# Task 2
+
+Create transformation that will highlight possible errors in data.
 
 ## Data Available
 
