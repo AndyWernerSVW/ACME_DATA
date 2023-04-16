@@ -31,7 +31,9 @@ Must have metrics:
 - Adspend Cost per Product Detail View
 - Product Purchase to Product Detail View Conversion rate
 - Margin 3
-  Other Metrics and Attributes: which ever you will find useful to
+
+Other Metrics and Attributes: which ever you will find useful to
+
 - answer business questions above
 - make it easy for user to understand your calculations
 
