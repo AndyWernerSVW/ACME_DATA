@@ -22,7 +22,7 @@ Create free project at https://www.keboola.com/ and load the data. Use this proj
 
 ## Your tasks
 
-# Task 1
+### Task 1
 
 Create table PRODUCT_METRICS according to this specification
 Granularity: Year-Week-Source_Channel-SKU
@@ -35,7 +35,7 @@ Must have metrics:
 - answer business questions above
 - make it easy for user to understand your calculations
 
-# Task 2
+### Task 2
 
 Create transformation that will highlight possible errors in data.
 
