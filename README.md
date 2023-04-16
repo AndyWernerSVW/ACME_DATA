@@ -1,6 +1,6 @@
 # ACME Corp
 
-Welcome to ACME. ACME is a ficitional e-shop that does sells Books and Appliances. In order to be succesfull in its endeavours it does what usual e-shop does:
+Welcome to ACME. ACME is a fictional e-shop that sells Books and Appliances. In order to be successful in its endeavors it does what usual e-shop does:
 
 - Purchases goods from vendors
 - Sends Newsletters and advertises on multiple advertising platforms to attract traffic
@@ -9,22 +9,22 @@ Welcome to ACME. ACME is a ficitional e-shop that does sells Books and Appliance
 
 ## Intro to the task
 
-You task will be to create table called Product Metrics. Product Metrics will be a single source of truth for the whole organization to understand performance of individual products. It will be used to answer business questions like:
+Your task will be to create a table called Product Metrics. Product Metrics will be a single source of truth for the whole organization to understand performance of individual products. It will be used to answer business questions like:
 
-- Which SKU have negative margin?
-- What is source of traffic for this specific SKU?
+- Which SKU has a negative margin?
+- What is the source of traffic for this specific SKU?
 - How much Adspend did we invest into specific brands?
 - Is there a relationship between conversion rate and discount given?
 
 ## Prerequisite
 
-Create free project at https://www.keboola.com/ and load the data. Use this project to transform data and complete task below.
+Create a free project at https://www.keboola.com/ and load the data. Use this project to transform data and complete the tasks below.
 
 ## Your tasks
 
 ### Task 1
 
-Create table PRODUCT_METRICS according to this specification
+Create a table PRODUCT_METRICS according to this specification
 Granularity: Year-Week-Source_Channel-SKU
 Must have metrics:
 
@@ -39,19 +39,23 @@ Must have metrics:
 
 Create transformation that will highlight possible errors in data.
 
+### Task 3
+
+Which sources are inconsistent? Do you have any idea why? How would you solve the headache caused by the inconsistency?
+
 ## Data Available
 
-### newsletters.csv:
+### newsletters.csv
 
-this is a datasource available from the mail sending platform. Cointains information about newsletters sent, openened and clicked
+This is a datasource available from the mail sending platform (think Mailchimp). Contains information about newsletters sent, opened and clicked
 
 ### performance_marketing.csv
 
-colleauge of yours was so nice to ingest data from various platforms so you know how much money was spent.
+Colleague of yours was so nice to ingest data from various platforms so you know how much money was spent.
 
 ### webanalytics.csv
 
-Data coing from Google Analytics. For weird reasons unknown to mankind ACME uses this source also for tracking items sold and its price.
+Data coming from Google Analytics. For weird reasons unknown to mankind ACME uses this source also for tracking items sold and its price.
 
 ### cogs.csv
 
@@ -59,7 +63,7 @@ This is how much the cost of the items was for ACME. It can change over time.
 
 ### bonuses.csv
 
-This contains inportant info about back-margins. AMCE collects additional money from vendors for services like better positioning on website, marketing services, connection to warehouse management and so on. These bonuses are neogtioted at vendor level. Some bonuses are calculated as EUR per piece sold and some as % of COGS.
+This contains important info about back-margins. ACME collects additional money from vendors for services like better positioning on website, marketing services, connection to warehouse management and so on. These bonuses are negotiated at vendor level. Some bonuses are calculated as EUR per piece sold and some as % of COGS.
 
 ## Hints
 
