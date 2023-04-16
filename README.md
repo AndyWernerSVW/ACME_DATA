@@ -37,7 +37,7 @@ Must have metrics:
 
 ### Task 2
 
-Create transformation that will highlight possible errors in data.
+For table web_analytics create set of transformations that will regularly check quality of newly incoming data so you are alerted when something isn't right. Would it catch one glitch that happened in the past?
 
 ### Task 3
 
