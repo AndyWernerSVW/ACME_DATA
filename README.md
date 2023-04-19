@@ -45,6 +45,12 @@ For table web_analytics create set of transformations that will regularly check 
 
 Which sources are inconsistent? Do you have any idea why? How would you solve the headache caused by the inconsistency?
 
+### What we are looking for
+
+Your tasks will be evaluated against 2 criteria
+a) logical and business correctness (aka does your output make sense)
+b) code clarity - make sure that person unfamiliar with the topic can understand your logic. No need to impress us by overengineering.
+
 ## Data Available
 
 ### newsletters.csv
