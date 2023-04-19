@@ -48,7 +48,9 @@ Which sources are inconsistent? Do you have any idea why? How would you solve th
 ### What we are looking for
 
 Your tasks will be evaluated against 2 criteria
+
 a) logical and business correctness (aka does your output make sense)
+
 b) code clarity - make sure that person unfamiliar with the topic can understand your logic. No need to impress us by overengineering.
 
 ## Data Available
