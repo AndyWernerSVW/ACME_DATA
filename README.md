@@ -43,7 +43,7 @@ For table web_analytics create set of transformations that will regularly check 
 
 ### Task 3
 
-Which sources are inconsistent? Do you have any idea why? How would you solve the headache caused by the inconsistency?
+Data is coming from multiple sources. Do they provide same results? How would you solve the potential inconsistencies?
 
 ### What we are looking for
 
